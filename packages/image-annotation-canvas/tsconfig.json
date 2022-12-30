@@ -1,0 +1,9 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "lib": ["es6", "dom"],
+    "rootDir": "src",
+    "outDir": "dist",
+  }
+}
